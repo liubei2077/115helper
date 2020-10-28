@@ -1,0 +1,14 @@
+{
+
+  "name": "115helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node ./src/server/index.js"
+  },
+  "devDependencies": {
+    "fastify": "^3.7.0"
+  },
+  "repository": "https://github.com/liubei2077/115helper.git",
+  "license": "MIT"
+}
